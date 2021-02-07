@@ -7,8 +7,8 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>React Boilerplate</title>
-        <link rel="manifest" href="manifest.json" />
+        <title>Boilerplate</title>
+        <link rel="manifest" href="/manifest.json" />
         <meta
           name="description"
           content="A simple project starter to work with TypeScript, React, NextJS and Styled Components"

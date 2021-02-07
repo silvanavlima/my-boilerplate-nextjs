@@ -1,8 +1,8 @@
 import * as S from './styles'
 
 const Main = ({
-  title = 'Boilerplate React with NextJS',
-  description = 'TypeScript, ReactJS, NextJS, Styled Components, React Testing Library and Jest'
+  title = 'Boilerplate',
+  description = 'TypeScript, ReactJS, NextJS e Styled Components'
 }) => (
   <S.Wrapper>
     <S.Title>{title}</S.Title>
